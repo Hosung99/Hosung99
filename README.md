@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://profile.intra.42.fr/users/seoson" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=42&logoColor=#000000"/></a>
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosung99&show_icons=true&theme=radical)
