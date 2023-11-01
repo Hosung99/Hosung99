@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://profile.intra.42.fr/users/seoson" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=42&logoColor=#000000"/></a>
+<a href="https://profile.intra.42.fr/users/seoson" target="_blank"><img src="https://img.shields.io/badge/-000000?style=social&logo=42&logoColor=#000000"/></a>
+<span style="font-size:20px;">42서울 9기 카뎃 : 2023.03 ~</span>
+<br/>
+<span style="font-size:20px;">현대오토에버 소프티어 2기 : 2023.07 ~ 2023.09</span>
 <br>
+
+[![seoson's 42 stats](https://badge.mediaplus.ma/colorfulwaves/seoson?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosung99&show_icons=true&theme=radical)
