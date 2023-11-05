@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr>
 <ul>
   <li><span style="font-size:20px;">42서울 9기 카뎃 : 2023.03 ~</span></li>
   <br/>
