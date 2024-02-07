@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 
 [![seoson's 42 stats](https://badge.mediaplus.ma/colorfulwaves/seoson?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dooduji)](https://solved.ac/dooduji/)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosung99&show_icons=true&theme=radical)
