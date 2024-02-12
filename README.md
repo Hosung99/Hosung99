@@ -27,4 +27,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dooduji)](https://solved.ac/dooduji/)
 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=dooduji&theme=cold)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosung99&show_icons=true&theme=radical)
