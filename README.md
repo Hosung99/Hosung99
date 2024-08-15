@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 <ul>
   <li><span style="font-size:20px;">42서울 9기 카뎃 : 2023.03 ~</span></li>
   <br/>
-  <li><span style="font-size:20px;">네이버 부스트캠프 9기 챌린지 : 2024.07 ~ </span></li>
+  <li><span style="font-size:20px;">네이버 부스트캠프 9기 챌린지 : 2024.07.15 ~  2024.08.09</span></li>
+  <br/>
+  <li><span style="font-size:20px;">네이버 부스트캠프 9기 멤버쉽 : 2024.08.19 ~ </span></li>
   <br/>
   <li><span style="font-size:20px;">광운학습모임 (오픈소스핫소스) : 2022.12 &nbsp&nbsp&nbsp<strong>최우수상 🏅</strong></span></li>
   <br/>
