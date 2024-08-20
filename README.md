@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 <h2>활동 및 수상</h1>
 <ul>
-  <li><span style="font-size:20px;">42서울 9기 카뎃 : 2023.03 ~</span></li>
+  <li><span style="font-size:20px;">42서울 9기 카뎃 : 2023.03 ~ 2024.08</span></li>
+  <br/>
+  <li><span style="font-size:20px;">42서울 9기 멤버 : 2024.08 ~ </span></li>
   <br/>
   <li><span style="font-size:20px;">네이버 부스트캠프 9기 챌린지 : 2024.07.15 ~  2024.08.09</span></li>
   <br/>
