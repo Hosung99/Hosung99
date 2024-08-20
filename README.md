@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
+
+<h2>활동 및 수상</h1>
 <ul>
   <li><span style="font-size:20px;">42서울 9기 카뎃 : 2023.03 ~</span></li>
   <br/>
