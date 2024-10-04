@@ -41,8 +41,6 @@ Here are some ideas to get you started:
 </ul>
 <hr>
 
-[![seoson's 42 stats](https://badge42.coday.fr/api/v2/clt8rqcc21450401p4a4u6sut1/stats?cursusId=21&coalitionId=86)](https://github.com/Coday-meric/badge42)
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dooduji)](https://solved.ac/dooduji/)
 
