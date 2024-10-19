@@ -7,32 +7,15 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 
 
-
-
-<!--
-**Hosung99/Hosung99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <hr>
 
 <h2>활동 및 수상</h1>
 <ul>
-  <li><span style="font-size:20px;">42서울 9기 카뎃 : 2023.03 ~ 2024.08</span></li>
+  <li><span style="font-size:20px;">광운대학교 멋쟁이사자처럼 : 2022.03 ~ 2023.12 </span></li>
   <br/>
   <li><span style="font-size:20px;">42서울 9기 멤버 : 2024.08 ~ </span></li>
   <br/>
-  <li><span style="font-size:20px;">네이버 부스트캠프 9기 챌린지 : 2024.07.15 ~  2024.08.09</span></li>
-  <br/>
-  <li><span style="font-size:20px;">네이버 부스트캠프 9기 멤버쉽 : 2024.08.19 ~ </span></li>
+  <li><span style="font-size:20px;">네이버 부스트캠프 9기 : 2024.08.19 ~ </span></li>
   <br/>
   <li><span style="font-size:20px;">광운학습모임 (오픈소스핫소스) : 2022.12 &nbsp&nbsp&nbsp<strong>최우수상 🏅</strong></span></li>
   <br/>
