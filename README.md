@@ -20,6 +20,15 @@
   <li><span style="font-size:20px;">42서울 9기 멤버 : 2024.08 ~ </span></li>
   <br/>
   <li><span style="font-size:20px;">네이버 부스트캠프 9기 : 2024.08.19 ~ </span></li>
+  <br/>
+<li style="display: flex; align-items: center;">
+  <span style="font-size:20px; white-space: nowrap;">
+    관광데이터 활용 공모전 (제주도랑) : 2024.04 ~ 2024.10
+    <a href="https://app.netlify.com/sites/jejudorang/deploys" style="margin-left: 5px; vertical-align: middle; display: inline-flex; align-items: center;">
+      <img src="https://api.netlify.com/api/v1/badges/bf0c2e7e-1d27-454b-92c3-1487d9e1663c/deploy-status" alt="Netlify Status" style="vertical-align: middle;" />
+    </a>
+  </span>
+</li>
 </ul>
 <hr>
 
