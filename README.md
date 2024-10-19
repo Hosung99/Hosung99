@@ -20,10 +20,8 @@
   <li><span style="font-size:20px;">42서울 9기 멤버 : 2024.08 ~ </span></li>
   <br/>
   <li><span style="font-size:20px;">네이버 부스트캠프 9기 : 2024.08.19 ~ </span></li>
-<br>
 </ul>
 <hr>
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dooduji)](https://solved.ac/dooduji/)
 
