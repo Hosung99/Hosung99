@@ -19,7 +19,7 @@
   <br/>
   <li><span style="font-size:20px;">42서울 9기 멤버 : 2024.08 ~ </span></li>
   <br/>
-  <li><span style="font-size:20px;">네이버 부스트캠프 9기 : 2024.08.19 ~ </span></li>
+  <li><span style="font-size:20px;">네이버 부스트캠프 9기 <a href="https://github.com/boostcampwm-2024/web35-watchducks" target='_blank'>와치덕스</a> : 2024.08.19 ~ 2024.12.06</span></li>
   <br/>
 <li style="display: flex; align-items: center;">
   <span style="font-size:20px; white-space: nowrap;">
