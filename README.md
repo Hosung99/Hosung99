@@ -26,6 +26,10 @@
 | 2024.08 ~ | 42서울 9기 멤버 | - |
 | 2024.08.19 ~ 2024.12.06 | 네이버 부스트캠프 9기 [와치덕스](https://github.com/boostcampwm-2024/web35-watchducks) | - |
 
+## ✏ Latest Blog Posting
+
+[https://velog.io/@shson1217/posts]
+
 ## 📊 GitHub Stats
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Hosung99&show_icons=true&theme=radical" alt="GitHub Stats" />
