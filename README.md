@@ -28,7 +28,8 @@
 
 ## ✏ Latest Blog Posting
 
-[https://velog.io/@shson1217/posts]
+<!-- LATEST_POSTS -->
+<!-- LATEST_POSTS_END -->
 
 ## 📊 GitHub Stats
 <div align="center">
