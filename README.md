@@ -30,11 +30,11 @@
 
 <!-- LATEST_POSTS -->
 
-1. <a href="https://velog.io/@shson1217/%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-env%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-in-Vite" target="_blank">우아하게 env사용하기 (in Vite)</a>
-2. <a href="https://velog.io/@shson1217/Suspense%EC%99%80-ErrorBoundary-%EC%8B%AC%EC%B8%B5%EB%B6%84%EC%84%9D" target="_blank">Suspense와 ErrorBoundary 심층분석</a>
-3. <a href="https://velog.io/@shson1217/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%B4%EB%B3%B4%EC%9E%90-4" target="_blank">자바스크립트를 이해해보자 (4)</a>
-4. <a href="https://velog.io/@shson1217/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EA%B8%B0%EC%B4%88" target="_blank">네트워크 이해하기 - 기초</a>
-5. <a href="https://velog.io/@shson1217/%EC%A3%BC%EC%86%8C%EC%B0%BD%EC%97%90-google.com%EB%A5%BC-%EC%B9%98%EB%A9%B4-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EC%9D%BC" target="_blank">주소창에 google.com를 치면 발생하는 일</a>
+1. <a href="https://velog.io/@shson1217/%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-Naver-Map-SDK-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-with-React" target="_blank">우아하게 Naver Map API 사용하기 (with Typescript, React)</a>
+2. <a href="https://velog.io/@shson1217/%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-env%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-in-Vite" target="_blank">우아하게 env사용하기 (in Vite)</a>
+3. <a href="https://velog.io/@shson1217/Suspense%EC%99%80-ErrorBoundary-%EC%8B%AC%EC%B8%B5%EB%B6%84%EC%84%9D" target="_blank">Suspense와 ErrorBoundary 심층분석</a>
+4. <a href="https://velog.io/@shson1217/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%B4%EB%B3%B4%EC%9E%90-4" target="_blank">자바스크립트를 이해해보자 (4)</a>
+5. <a href="https://velog.io/@shson1217/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EA%B8%B0%EC%B4%88" target="_blank">네트워크 이해하기 - 기초</a>
 
 <!-- LATEST_POSTS_END -->
 
