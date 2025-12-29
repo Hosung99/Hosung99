@@ -38,10 +38,6 @@
 
 <!-- LATEST_POSTS_END -->
 
-## 📊 GitHub Stats
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Hosung99&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
 ## 💻 Problem Solving
 <div align="center">
