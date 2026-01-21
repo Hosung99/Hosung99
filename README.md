@@ -46,4 +46,11 @@
 
 </div>
 
+## 🥫 Open Source Contributing
+
+- [**mantinedev/mantine #8591**](https://github.com/mantinedev/mantine/pull/8591)
+> UI 컴포넌트 라이브러리
+- **[PR #8591]**: Fix(ScrollArea): ScrollArea with horizontal scroll should not prevent parent vertical scroll
+  - 단일 축(X 또는 Y) 스크롤이 활성화된 환경에서, 반대 방향의 스크롤 이벤트가 부모 요소로 전파되지 않아 페이지 전체 스크롤이 차단되던 UX 결함을 수정했습니다.
+  - **Status**: `Merged` ✅
 ---
