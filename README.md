@@ -56,6 +56,6 @@
   - **Status**: `Merged` ✅
 - [**mantinedev/mantine #8631**](https://github.com/mantinedev/mantine/pull/8631)
   - - **[PR #8631]**: Docs(CloseButton): Fix --cb-icon-size set default to 80%
-  - 공식문서상, default 아이콘크기가 80%로 되어있었지만, 실제코드상엔 70%로 되어있어 문구를 수정하도록 요청했습니다.
+  - 공식문서상, default 아이콘크기가 80%로 되어있었지만, 실제코드상엔 70%로 되어있어 공식문서를 수정했습니다.
   - **Status**: `Merged` ✅
 ---
