@@ -58,4 +58,11 @@
   - - **[PR #8631]**: Docs(CloseButton): Fix --cb-icon-size set default to 80%
   - 공식문서상, default 아이콘크기가 80%로 되어있었지만, 실제코드상엔 70%로 되어있어 공식문서를 수정했습니다.
   - **Status**: `Merged` ✅
+- [**mantinedev/mantine #8663**](https://github.com/mantinedev/mantine/pull/8663)
+  - - **[PR #8663]**: fix: Add placeholder to DateTimePickerStylesNames
+  - DateTimePicker 컴포넌트의 StylesName에 'placeholder' 타입을 추가했습니다.
+  - DateTimePicker 컴포넌트의 placeholder에 css로 값을 지정해줄 수 있게되었습니다.
+  - **Status**: `Merged` ✅
+ 
+    
 ---
