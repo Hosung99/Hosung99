@@ -32,11 +32,11 @@
 
 <!-- LATEST_POSTS -->
 
-1. <a href="https://velog.io/@shson1217/%ED%94%84%EB%A1%A0%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%9E%85%EA%B8%B0-2%ED%83%84-with-vitest-playwright" target="_blank">프론트 테스트 도입기 2탄 (with vitest, playwright)</a>
-2. <a href="https://velog.io/@shson1217/%ED%94%84%EB%A1%A0%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%9E%85%EA%B8%B0-1%ED%83%84-with-vitest-playwright" target="_blank">프론트 테스트 도입기 1탄 (with vitest, playwright)</a>
-3. <a href="https://velog.io/@shson1217/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9A%8C%EC%82%AC%EC%83%9D%ED%99%9C-%ED%94%BC%EB%93%9C%EB%B0%B1" target="_blank">신입 개발자 회사생활 피드백</a>
-4. <a href="https://velog.io/@shson1217/%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-Naver-Map-SDK-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-with-React" target="_blank">우아하게 Naver Map API 사용하기 (with Typescript, React)</a>
-5. <a href="https://velog.io/@shson1217/%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-env%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-in-Vite" target="_blank">우아하게 env사용하기 (in Vite)</a>
+1. <a href="https://velog.io/@shson1217/%EB%B0%B1%EC%97%94%EB%93%9C%EC%9D%98-%EC%8B%A0-%EB%90%98%EA%B8%B0-1%EC%9D%BC%EC%B0%A8" target="_blank">백엔드의 신 되기 1일차</a>
+2. <a href="https://velog.io/@shson1217/%ED%94%84%EB%A1%A0%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%9E%85%EA%B8%B0-2%ED%83%84-with-vitest-playwright" target="_blank">프론트 테스트 도입기 2탄 (with vitest, playwright)</a>
+3. <a href="https://velog.io/@shson1217/%ED%94%84%EB%A1%A0%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%9E%85%EA%B8%B0-1%ED%83%84-with-vitest-playwright" target="_blank">프론트 테스트 도입기 1탄 (with vitest, playwright)</a>
+4. <a href="https://velog.io/@shson1217/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9A%8C%EC%82%AC%EC%83%9D%ED%99%9C-%ED%94%BC%EB%93%9C%EB%B0%B1" target="_blank">신입 개발자 회사생활 피드백</a>
+5. <a href="https://velog.io/@shson1217/%EC%9A%B0%EC%95%84%ED%95%98%EA%B2%8C-Naver-Map-SDK-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-with-React" target="_blank">우아하게 Naver Map API 사용하기 (with Typescript, React)</a>
 
 <!-- LATEST_POSTS_END -->
 
